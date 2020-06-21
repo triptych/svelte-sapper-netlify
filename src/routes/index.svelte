@@ -33,7 +33,7 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>Small Web Things</title>
 </svelte:head>
 
 <h1>Welcome to Small Web Things</h1>
