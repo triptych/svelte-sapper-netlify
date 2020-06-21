@@ -17,7 +17,7 @@ export function get(req, res, _) {
 	const post = getPost(slug);
 	const renderer = new marked.Renderer();
 
-	const {data, content} = grayMatter(post).data;
+	const {data, content} = grayMatter(post);
 	const html = marked(content, {renderer});
 
 	if(html){
