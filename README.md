@@ -1,3 +1,11 @@
+# Small Web Things
+
+A site about little websites for the "small web".
+
+Thanks to [this dev.to article](https://dev.to/avcohen/svelte-sapper-netlify-cms-3mn8) for the majority of the code to figure out how to do this
+
+-----
+
 # sapper-template
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.
