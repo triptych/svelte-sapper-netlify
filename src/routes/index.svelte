@@ -50,6 +50,10 @@ HTML, CSS, and JS, or are meant to be fun tools to use by the web, for the web.
 	</figcaption>
 </figure>
 
+<footer>
+	Created by <a href="https://twitter.com/triptych">@triptych</a> - <a href="https://github.com/triptych/svelte-sapper-netlify">source</a>
+</footer>
+
 <!-- 
 <h1>Great success!</h1>
 
