@@ -1,5 +1,5 @@
 ---
-slug: dinosaur
+slug: test
 title: foobar
 ---
 ggggg
