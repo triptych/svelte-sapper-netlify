@@ -36,7 +36,7 @@
 	<title>Small Web Things</title>
 </svelte:head>
 
-<h1>Welcome to Small Web Things</h1>
+<h1>Small Web Things</h1>
 <p>
 Small Web Things is a site to feature "small" web projects. 
 Usually independent web applications that are either static sites, simple vanilla 
