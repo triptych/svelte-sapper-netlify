@@ -36,6 +36,21 @@
 	<title>Sapper project template</title>
 </svelte:head>
 
+<h1>Welcome to Small Web Things</h1>
+<p>
+Small Web Things is a site to feature "small" web projects. 
+Usually independent web applications that are either static sites, simple vanilla 
+HTML, CSS, and JS, or are meant to be fun tools to use by the web, for the web.
+</p>
+
+<figure>
+	<img src="uploads/macro-1452987_1920.jpg" alt="close up view of clockwork">
+	<figcaption>
+		Image by <a href="https://pixabay.com/users/Pavlofox-514753/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1452987">Pavlofox</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1452987">Pixabay</a>
+	</figcaption>
+</figure>
+
+<!-- 
 <h1>Great success!</h1>
 
 <figure>
@@ -43,4 +58,4 @@
 	<figcaption>Have fun with Sapper!</figcaption>
 </figure>
 
-<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
+<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p> -->
