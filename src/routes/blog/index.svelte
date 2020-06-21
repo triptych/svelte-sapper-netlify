@@ -19,6 +19,8 @@
 
 <svelte:head>
 	<title>Blog</title>
+	<script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </svelte:head>
 
 <h1>Recent posts</h1>
