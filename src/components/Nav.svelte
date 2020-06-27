@@ -61,7 +61,7 @@
       </a>
     </li>
 	<li>
-		<a href="swt" aria-current={segment === 'swg' ? 'page': undefined}>
+		<a href="swt" aria-current={segment === 'swt' ? 'page': undefined}>
 			swt
 		</a>
 	</li>
